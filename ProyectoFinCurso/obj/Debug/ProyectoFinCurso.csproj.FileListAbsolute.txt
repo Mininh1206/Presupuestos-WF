@@ -1,0 +1,117 @@
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ProyectoFinCurso.exe.config
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ProyectoFinCurso.exe
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ProyectoFinCurso.pdb
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.AssemblyReference.cache
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Menu.resources
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Properties.Resources.resources
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.GenerateResource.cache
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.CoreCompileInputs.cache
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.exe
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.pdb
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\BouncyCastle.Crypto.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Google.Protobuf.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Hash.xxHash.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\MySql.Data.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Buffers.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Memory.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Numerics.Vectors.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Ubiety.Dns.Core.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ZstdNet.dll
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Google.Protobuf.pdb
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Google.Protobuf.xml
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.xml
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Hash.xxHash.xml
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\MySql.Data.xml
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Buffers.xml
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Memory.xml
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Numerics.Vectors.xml
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.CopyComplete
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Clientes.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ProyectoFinCurso.exe.config
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ProyectoFinCurso.exe
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ProyectoFinCurso.pdb
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\BouncyCastle.Crypto.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Google.Protobuf.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Hash.xxHash.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\MySql.Data.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Buffers.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Memory.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Numerics.Vectors.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Ubiety.Dns.Core.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ZstdNet.dll
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Google.Protobuf.pdb
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Google.Protobuf.xml
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.xml
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Hash.xxHash.xml
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\MySql.Data.xml
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Buffers.xml
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Memory.xml
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Numerics.Vectors.xml
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.AssemblyReference.cache
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Clientes.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Menu.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Properties.Resources.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.GenerateResource.cache
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.CoreCompileInputs.cache
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.CopyComplete
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.exe
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.pdb
+E:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Formulario.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Presupuestos.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.FormularioPresupuesto.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.SelectorCliente.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.SelectorArticulo.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.SuggestedBindingRedirects.cache
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Articulos.resources
+F:\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.FormularioClientes.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ProyectoFinCurso.exe.config
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ProyectoFinCurso.exe
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ProyectoFinCurso.pdb
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\BouncyCastle.Crypto.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Google.Protobuf.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Hash.xxHash.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\MySql.Data.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Buffers.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Memory.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Numerics.Vectors.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Ubiety.Dns.Core.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\ZstdNet.dll
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Google.Protobuf.pdb
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\Google.Protobuf.xml
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.xml
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\K4os.Hash.xxHash.xml
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\MySql.Data.xml
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Buffers.xml
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Memory.xml
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Numerics.Vectors.xml
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.AssemblyReference.cache
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.SuggestedBindingRedirects.cache
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Articulos.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Clientes.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.FormularioClientes.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.FormularioPresupuesto.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Menu.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Presupuestos.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.Properties.Resources.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.SelectorArticulo.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.SelectorCliente.resources
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.GenerateResource.cache
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.CoreCompileInputs.cache
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.csproj.CopyComplete
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.exe
+F:\Clases\2º DAM\Visual\Diseño de interfaces\ProyectoFinCurso\ProyectoFinCurso\obj\Debug\ProyectoFinCurso.pdb
