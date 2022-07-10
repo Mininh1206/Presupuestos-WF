@@ -20,7 +20,7 @@ namespace ProyectoFinCurso
         public BaseDatosMySql()
         {
             conexion = new MySqlConnection("Database=docargest; Data Source=localhost; User Id=root; Password=admin");
-            //conexion.Open();
+            conexion.Open();
         }
 
         public void insertarCliente(string dni, string nombre, string apellidos, MySqlDateTime fechaAlta, MySqlDateTime fechaNac, string codPostal, string direccion, int poblacion, int provincia, string telefono, string email)
